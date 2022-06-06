@@ -1,0 +1,5 @@
+.config/GAISH_KGO/cas.conf
+
+nohup cas &
+
+ps aux |grep cas ... kill
